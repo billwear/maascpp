@@ -1,0 +1,3 @@
+[submodule "maas-python-src"]
+	path = maas-python-src
+	url = git+ssh://billwear@git.launchpad.net/maas
