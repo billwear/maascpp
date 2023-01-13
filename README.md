@@ -2,10 +2,10 @@
 
 This is a reference implementation of the Canonical MAAS product in the C++ programming language.  A few important things about this code:
 
-1. It is intended to help me (and others) learn the deep software architecture of MAAS, and understand the MAAS theory of operation, by porting the code to another language.
+1. It is intended to help me (and others) learn the deep software architecture of MAAS, and understand the MAAS theory of operation, via the process of porting the code to another language.
 
-2. This really is a direct port, not a redesign or rewrite.  I plan to try to reproduce the existing Python code with the closest thing to a 1:1 correspondence possible.
+2. This really is a direct port, not a redesign or rewrite.  I plan to try to reproduce the existing Python code with the closest thing to a 1:1 correspondence possible.  If the existing code has errors or bugs, I expect those to be reproduced at some level of fidelity.
 
-3. This is strictly an educational tool.  It isn't warranted for any particular operational use or purpose, so don't expect it to be a C++ replacement for MAAS.  That isn't a goal of this project, so if you try to use it for your particular application, caveat emptor.
+3. This is strictly an educational tool.  It isn't warranted for any particular operational use or purpose, so don't expect it to be a C++ replacement for MAAS.  That isn't a goal of this project, so if you try to use it for your particular application, caveat emptor: You deserve any breakage you experience, and I make no guarantee of fixing any bugs you may find.
 
 That said, on with the code.
