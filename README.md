@@ -12,3 +12,9 @@ Essentially, I just want to understand how the core daemons communicate and inte
 
 That said, on with the code.
 
+## Fri Jan 27 08:40:26 2023
+
+So looking at the code, it was clear that I need to understand Django, which I've not used before.  Tried a couple of video tutorials, but they were basically skeletal sales pitches.  I did a quick spin on Docker, just because I haven't used it before, either, and then I've moved on to the Django tutorials.  They're really good, and I'm already beginning to see how to decode the open-source MAAS code.  
+
+More when I'm smarter.
+
